@@ -1,0 +1,10 @@
+# Ignore all .class files recursively
+*.class
+
+# Optional: Ignore other compiled Java artifacts
+*.jar
+*.war
+*.ear
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
